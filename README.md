@@ -6,7 +6,26 @@
   </h1>
  </div>
 <img src="https://raw.githubusercontent.com/MrMDrX/MrMDrX/output/snake.svg" alt="Snake animation" />
-## front-end developer <img src="./images/oggy.gif" alt="cat" />
+ <br>
+<h1>Position : front-end developer <img src="./images/oggy.gif" alt="cat" /></h1>
+ <br>
+<p>
+ I go by Mohammad Hossein Mohajer Kuhestani , aspiring Junior Front-End Developer.
+My fervor lies in the realm of coding, particularly within the dynamic arena of front-end development, where I am keen to expand my skills and expertise.
+
+My top front-end skills include :
+1. Next.js
+2. React.js
+3. JS
+4. TS
+5. HTML5
+6. CSS3
+7. Responsive Web Design
+8. CSS Preprocessors (such as SASS )
+9. CSS Frameworks (such as Tailwind)
+10. Version Control (e.g., Git , Github)
+11. Basic knowledge of SEO principles for front-end development.
+</p>
  
 ###
 
