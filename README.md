@@ -90,11 +90,5 @@ I'm always open to interesting conversations and collaboration. Feel free to rea
 
 ###
 
-## 📈 GitHub Stats
-  <img src="https://streak-stats.demolab.com?user=Mohajer2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-</div>
-
-###
-
 <h3>Support Me :</h3>
 <a href="https://www.coffeebede.com/mohajer2002"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="250" /></a>
