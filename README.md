@@ -35,8 +35,23 @@
     </td>
    </td>  
      <td align="center"  width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="40" height="40"/>
+      <br>TS
+    </td>
+   </td>  
+   </td>  
+     <td align="center"  width="96">
       <a href="https://reactjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a> 
-      <br>React js
+      <br>React.js
+    </td>
+   </td>  
+     <td align="center"  width="96">
+      <a href="https://nextjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Next" width="40" height="40"/> </a> 
+      <br>Next.js
+    </td>
+     <td align="center"  width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Restfull API" width="40" height="40"/> 
+      <br>Restful API
     </td>
 </tr>
 <tr>
@@ -66,7 +81,7 @@
 I'm always open to interesting conversations and collaboration. Feel free to reach out if you share similar interests or have exciting ideas to discuss.
 
 <div align="left">
-  <a href="www.linkedin.com/in/mohammadhosein-mohajer-33ba07248" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammadhosein-mohajer-33ba07248" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 <a href="mailto:mohammadmohajer81@yahoo.com" target="_blank">
