@@ -6,6 +6,7 @@
   </h1>
  </div>
 <img src="https://raw.githubusercontent.com/MrMDrX/MrMDrX/output/snake.svg" alt="Snake animation" />
+<img src="https://icons8.com/icon/WvYz2RxUB68p/oggy" alt="cat" />
  
 ###
 
