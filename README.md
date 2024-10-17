@@ -7,7 +7,7 @@
  </div>
 <img src="https://raw.githubusercontent.com/MrMDrX/MrMDrX/output/snake.svg" alt="Snake animation" />
  <br>
-<h1>Position : front-end developer <img src="./images/oggy.gif" alt="cat" /></h1>
+<h1>Position : front-end developer  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"></h1>
  <br>
 <p>
  I go by Mohammad Hossein Mohajer Kuhestani , aspiring Junior Front-End Developer.
@@ -16,80 +16,31 @@ My fervor lies in the realm of coding, particularly within the dynamic arena of 
 My top front-end skills include :
 1. Next.js
 2. React.js
-3. JS
-4. TS
-5. HTML5
-6. CSS3
-7. Responsive Web Design
-8. CSS Preprocessors (such as SASS )
-9. CSS Frameworks (such as Tailwind)
-10. Version Control (e.g., Git , Github)
-11. Basic knowledge of SEO principles for front-end development.
+3. Vue3
+4. JavaScript (JS)
+5. TypeScript (TS)
+6. HTML5
+7. CSS3
+8. Responsive Web Design
+9. CSS Preprocessors (such as SASS )
+10. CSS Frameworks (such as Tailwind)
+11. BEM (Block Element Modifier)
+12. Version Control (e.g., Git , Github , Gitlab)
+13. Basic knowledge of SEO principles for front-end development.
 </p>
  
 ###
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />
+Tools & Technologies :
+</h2>
+<br/>
 
-## Tools & Technologies :
-
-<table>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-   </td>  
-     <td align="center"  width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="40" height="40"/>
-      <br>TS
-    </td>
-   </td>  
-   </td>  
-     <td align="center"  width="96">
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a> 
-      <br>React.js
-    </td>
-   </td>  
-     <td align="center"  width="96">
-      <a href="https://nextjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Next" width="40" height="40"/> </a> 
-      <br>Next.js
-    </td>
-     <td align="center"  width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Restfull API" width="40" height="40"/> 
-      <br>Restful API
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
- <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-</tr>
-</table>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,next,vue,vite)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,figma)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
 ###
 
 ## 🌐 Connect with Me
@@ -108,7 +59,31 @@ I'm always open to interesting conversations and collaboration. Feel free to rea
 </a>
 </div>
 
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > Mohajer Github stats
+
+<div align="center">
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohajer2002&show_icons=true&locale=en&theme=transparent&layout=compact"
+    alt="Mohajer" 
+    bg_color=#808080/></p>
+ 
+<p><img src="https://github-readme-stats.vercel.app/api?username=Mohajer2002&show_icons=true&locale=en&theme=transparent"
+    alt="Mohajer" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohajer2002&theme=transparent&border_radius=5&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+<div id="header" align="center">
+<p align="center"> <a href="Mohajer2002.github.io"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"></a> </p> </div>
+</div>
+
+[![Mohajer github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohajer2002&theme=react-dark)](https://github.com/Mohajer2002/github-readme-activity-graph)
+
+
 ###
 
 <h3>Support Me :</h3>
 <a href="https://www.coffeebede.com/mohajer2002"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="250" /></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=006aff&section=footer&reversal=true"/>
+</p>
