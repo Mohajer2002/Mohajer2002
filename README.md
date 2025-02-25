@@ -36,7 +36,7 @@ Tools & Technologies :
 </h2>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,next,vue,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,redux,next,vue,vite,angular)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,figma)](https://skillicons.dev)
 <br />
