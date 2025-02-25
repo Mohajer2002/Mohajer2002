@@ -16,17 +16,18 @@ My fervor lies in the realm of coding, particularly within the dynamic arena of 
 My top front-end skills include :
 1. Next.js
 2. React.js
-3. Vue3
-4. JavaScript (JS)
-5. TypeScript (TS)
-6. HTML5
-7. CSS3
-8. Responsive Web Design
-9. CSS Preprocessors (such as SASS )
-10. CSS Frameworks (such as Tailwind)
-11. BEM (Block Element Modifier)
-12. Version Control (e.g., Git , Github , Gitlab)
-13. Basic knowledge of SEO principles for front-end development.
+3. Angular
+4. Vue3
+5. JavaScript (JS)
+6. TypeScript (TS)
+7. HTML5
+8. CSS3
+9. Responsive Web Design
+10. CSS Preprocessors (such as SASS )
+11. CSS Frameworks (such as Tailwind)
+12. BEM (Block Element Modifier)
+13. Version Control (e.g., Git , Github , Gitlab)
+14. Basic knowledge of SEO principles for front-end development.
 </p>
  
 ###
